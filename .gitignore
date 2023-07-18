@@ -1,0 +1,28 @@
+# Created by https://www.toptal.com/developers/gitignore/api/venv
+# Edit at https://www.toptal.com/developers/gitignore?templates=venv
+
+### venv ###
+# Virtualenv
+# http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+.venv
+pip-selfcheck.json
+/ibge
+/tabelas_empresas_2015_xls
+/tabelas_unidades_locais_2015_xls
+/1_Estrutura_economica_e_mercado_de_trabalho_xls
+quadro_de_apresentacao_das_tabelas_de_resultados.xls
+*.zip
+*.pdf
+*.csv
+*.xls
+*.xlsx
+
+# End of https://www.toptal.com/developers/gitignore/api/venv
